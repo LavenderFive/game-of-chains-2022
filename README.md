@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/9121234/190864636-b5047a5b-8f44-42ed-a9de-62095bebd2a3.jpg" />
 </p>
+  
 # Game of Chains 2022 Resources
   
 ## **Provider Chain**:  
