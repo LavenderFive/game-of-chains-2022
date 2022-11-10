@@ -1,6 +1,6 @@
 # Game of Chains 2022 Resources
   
-[b]Provider Chain[/b]:  
+**Provider Chain**:  
 Public RPC:  
 Public API:  
   
