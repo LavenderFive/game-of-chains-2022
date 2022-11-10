@@ -7,3 +7,5 @@ Public API:
 Seed Node:  
 Peer:  
   
+Address Book:  
+Genesis:  
