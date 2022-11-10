@@ -1,48 +1,4 @@
 {
-  "jsonrpc": "2.0",
-  "id": -1,
-  "result": {
-    "node_info": {
-      "protocol_version": {
-        "p2p": "8",
-        "block": "11",
-        "app": "0"
-      },
-      "id": "dd64f68070847a00413ecbe2dc0ed01e584ace57",
-      "listen_addr": "146.59.85.223:26656",
-      "network": "provider",
-      "version": "v0.34.19",
-      "channels": "40202122233038606100",
-      "moniker": "provider",
-      "other": {
-        "tx_index": "on",
-        "rpc_address": "tcp://0.0.0.0:26657"
-      }
-    },
-    "sync_info": {
-      "latest_block_hash": "A281BEA9731D0A0762940CFD0060AA43CBA2B1735A6665597A1CC742B7B6BAD8",
-      "latest_app_hash": "917C8A847E769EB71662522D8FD4B722F21379BE1789AA9C89AF3F060ACD3246",
-      "latest_block_height": "53094",
-      "latest_block_time": "2022-11-10T15:36:54.817576854Z",
-      "earliest_block_hash": "07BDFFFAA5E7E39C6C244D05FBFAE5A63A83A4DD2BCF6BEAF02156B80E65E8DA",
-      "earliest_app_hash": "6ECC4CEFE7AB7AC58D8C8320F23A8B11A19B2A1C37D384F0E44A4CDF0F419933",
-      "earliest_block_height": "53001",
-      "earliest_block_time": "2022-11-10T15:29:05.524809881Z",
-      "catching_up": false
-    },
-    "validator_info": {
-      "address": "7A74EB2298B26CC9F30C1C682A5C0DE209EE3687",
-      "pub_key": {
-        "type": "tendermint/PubKeyEd25519",
-        "value": "WbaXftZEFHW1pREJUZ6mitPtufYdZzvmT49xvtm40YE="
-      },
-      "voting_power": "9"
-    }
-  }
-}provider@gameofchains:~$ cd .gaia
-provider@gameofchains:~/.gaia$ cd config
-provider@gameofchains:~/.gaia/config$ cat genesis.json
-{
   "genesis_time": "2022-11-07T12:55:47.944439477Z",
   "chain_id": "provider",
   "initial_height": "1",
