@@ -5,8 +5,9 @@
 # Game of Chains 2022 Resources
   
 ## **Provider Chain**:  
-Public RPC: https://goc-provider-rpc.lavenderfive.com/  
-Public API: https://goc-provider-api.lavenderfive.com/  
+Public RPC:  https://goc-provider-rpc.lavenderfive.com/  
+Public gRPC: https://goc-provider-gprc.lavenderfive.com/  
+Public API:  https://goc-provider-api.lavenderfive.com/  
   
 Seed Node: `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:26656`    
   
@@ -14,6 +15,7 @@ Address Book: https://github.com/LavenderFive/game-of-chains-2022/blob/master/ad
 
 ## **Apollo Consumer Chain**:  
 Public RPC: https://goc-apollo-rpc.lavenderfive.com/   
+Public gRPC: https://goc-apollo-gprc.lavenderfive.com/  
 Public API: https://goc-apollo-api.lavenderfive.com/   
   
 Seed Node: `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:27656`    
@@ -22,6 +24,7 @@ Address Book:
 
 ## **Sputnik Consumer Chain**:  
 Public RPC: https://goc-sputnik-rpc.lavenderfive.com/   
+Public gRPC: https://goc-sputnik-gprc.lavenderfive.com/  
 Public API: https://goc-sputnik-api.lavenderfive.com/ 
   
 Seed Node: `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:28656`    
