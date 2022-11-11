@@ -15,7 +15,7 @@ Address Book: https://github.com/LavenderFive/game-of-chains-2022/blob/master/ad
 
 ## **Apollo Consumer Chain**:  
 Public RPC: https://goc-apollo-rpc.lavenderfive.com/   
-Public gRPC: https://goc-apollo-gprc.lavenderfive.com/
+Public gRPC: https://goc-apollo-gprc.lavenderfive.com/  
 Public API: https://goc-apollo-api.lavenderfive.com/   
   
 Seed Node: `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:27656`    
