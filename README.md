@@ -22,6 +22,13 @@ Seed Node: `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:
   
 Address Book:   
 
+## **Hero Consumer Chain**
+Public RPC:
+Public gRPC:
+Public API:
+
+Seed Node: `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:29656`
+
 ## **Sputnik Consumer Chain**:  
 Public RPC: https://goc-sputnik-rpc.lavenderfive.com/   
 Public gRPC: https://goc-sputnik-gprc.lavenderfive.com/  
@@ -30,3 +37,4 @@ Public API: https://goc-sputnik-api.lavenderfive.com/
 Seed Node: `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:28656`    
   
 Address Book:   
+
