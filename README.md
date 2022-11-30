@@ -11,7 +11,7 @@ Public API:  https://goc-provider-api.lavenderfive.com/
   
 Seed Node: `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:26656`    
   
-Address Book: `https://github.com/reversesigh/game-of-chains-2022/blob/master/addrbook/goc-provider-addrbook.json`  
+Address Book: `https://raw.githubusercontent.com/LavenderFive/game-of-chains-2022/master/addrbook/goc-provider-addrbook.json`  
   
 ## **Duality Consumer Chain**
 Public RPC: https://goc-duality-rpc.lavenderfive.com  
@@ -20,7 +20,7 @@ Public API: https://goc-duality-api.lavenderfive.com
   
 Seed Node: `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:33656`    
   
-Address Book: `https://github.com/reversesigh/game-of-chains-2022/blob/master/addrbook/goc-duality-addrbook.json`  
+Address Book: `https://raw.githubusercontent.com/LavenderFive/game-of-chains-2022/master/addrbook/goc-duality-addrbook.json`  
   
 ## **Hero Consumer Chain**  
 Public RPC: https://goc-hero-rpc.lavenderfive.com  
@@ -29,7 +29,7 @@ Public API: https://goc-hero-api.lavenderfive.com
   
 Seed Node: `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:29656`  
   
-Address Book: `https://github.com/reversesigh/game-of-chains-2022/blob/master/addrbook/goc-hero-addrbook.json`  
+Address Book: `https://raw.githubusercontent.com/LavenderFive/game-of-chains-2022/master/addrbook/goc-hero-addrbook.json`  
   
 ## **Neutron Consumer Chain**  
 Public RPC: https://goc-neutron-rpc.lavenderfive.com  
@@ -38,7 +38,7 @@ Public API: https://goc-neutron-api.lavenderfive.com
   
 Seed Node: `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:30656`    
   
-Address Book:  `https://github.com/reversesigh/game-of-chains-2022/blob/master/addrbook/goc-neutron-addrbook.json`  
+Address Book:  `https://raw.githubusercontent.com/LavenderFive/game-of-chains-2022/master/addrbook/goc-neutron-addrbook.json`  
   
 ## **Sputnik Consumer Chain**:  
 Public RPC: https://goc-sputnik-rpc.lavenderfive.com/   
@@ -47,7 +47,7 @@ Public API: https://goc-sputnik-api.lavenderfive.com/
   
 Seed Node: `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:28656`    
   
-Address Book: `https://github.com/reversesigh/game-of-chains-2022/blob/master/addrbook/goc-sputnik-addrbook.json`  
+Address Book: `https://raw.githubusercontent.com/LavenderFive/game-of-chains-2022/master/addrbook/goc-sputnik-addrbook.json`  
   
 ## **Strange Consumer Chain**:  
 Public RPC: https://goc-strange-rpc.lavenderfive.com  
@@ -56,4 +56,4 @@ Public API: https://goc-strange-api.lavenderfive.com
   
 Seed Node: `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:32656`    
   
-Address Book: `https://github.com/reversesigh/game-of-chains-2022/blob/master/addrbook/goc-strange-addrbook.json`  
+Address Book: `https://raw.githubusercontent.com/LavenderFive/game-of-chains-2022/master/addrbook/goc-strange-addrbook.json`  
