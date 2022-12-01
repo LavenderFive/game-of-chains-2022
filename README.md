@@ -102,6 +102,22 @@ Address Book:
   
 ---- 
 
+## **LOVE Consumer Chain**
+Chain ID:  
+Info: https://github.com/dsrvlabs/ics-testnets/tree/main/game-of-chains-2022/love  
+RPC: https://goc-love-rpc.lavenderfive.com  
+gRPC: `https://goc-love-grpc.lavenderfive.com`  
+API:  `https://goc-love-grpc.lavenderfive.com`  
+  
+Relayer:  
+`cosmos149nfuveshlx7g7g5z8rngc8dagl0jv2cjtew9v`  
+Seed Node:  
+`dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:37656`  
+Address Book:  
+**Waiting on chain launch**  
+  
+----  
+
 ## **Neutron Consumer Chain**
 Chain ID: `neutron`    
 Info: https://github.com/hyphacoop/ics-testnets/tree/main/game-of-chains-2022/neutron  
