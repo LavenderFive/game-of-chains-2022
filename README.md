@@ -41,7 +41,7 @@ API: `https://api-apollo-grpc.lavenderfive.com`
 ----  
 
 ## **Crescent Consumer Chain**  
-Chain ID:  
+Chain ID: `goc-crescent`  
 Info: https://github.com/b-harvest/game-of-chains/tree/main/crescent  
 RPC: https://goc-crescent-rpc.lavenderfive.com    
 gRPC: `https://goc-crescent-grpc.lavenderfive.com `   
