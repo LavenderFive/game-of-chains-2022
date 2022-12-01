@@ -17,7 +17,9 @@ Info: https://github.com/hyphacoop/ics-testnets/tree/main/game-of-chains-2022/pr
 RPC:  https://goc-provider-rpc.lavenderfive.com/  
 gRPC: `https://goc-provider.gprc.lavenderfive.com`  
 API: `https://goc-provider.api.lavenderfive.com`  
-  
+
+Relayer:  
+`cosmos149nfuveshlx7g7g5z8rngc8dagl0jv2cjtew9v`    
 Seed Node:  
 `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:26656`    
 Address Book:  
@@ -54,7 +56,9 @@ Info:  https://github.com/hyphacoop/ics-testnets/tree/main/game-of-chains-2022/g
 RPC:  https://goc-gopher-rpc.lavenderfive.com   
 gRPC: `https://goc-gopher-grpc.lavenderfive.com`  
 API: `https://goc-gopher-api.lavenderfive.com`  
-  
+
+Relayer:   
+`cosmos149nfuveshlx7g7g5z8rngc8dagl0jv2cjtew9v`  
 Seed Node:  
 `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:31656`  
 Address Book:  
@@ -66,7 +70,9 @@ Info: https://github.com/hyphacoop/ics-testnets/tree/main/game-of-chains-2022/he
 RPC: https://goc-hero-rpc.lavenderfive.com  
 gRPC: `https://goc-hero-grpc.lavenderfive.com`  
 API: `https://goc-hero-api.lavenderfive.com`  
-  
+
+Relayer:  
+`cosmos149nfuveshlx7g7g5z8rngc8dagl0jv2cjtew9v`    
 Seed Node:  
 `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:29656`  
 Address Book:  
@@ -105,7 +111,6 @@ API: `https://goc-schwifty-api.lavenderfive.com`
 
 Seed Node:  
 `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:36656`  
-  
 Address Book:  
  **(waiting on chain launch)** 
   
@@ -115,7 +120,9 @@ Info: https://github.com/hyphacoop/ics-testnets/tree/main/game-of-chains-2022/sp
 RPC: https://goc-sputnik-rpc.lavenderfive.com/   
 gRPC: `https://goc-sputnik-grpc.lavenderfive.com`  
 API: `https://goc-sputnik-api.lavenderfive.com`  
-  
+
+Relayer:  
+`cosmos149nfuveshlx7g7g5z8rngc8dagl0jv2cjtew9v`  
 Seed Node:  
 `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:28656`    
 Address Book:  
@@ -127,7 +134,9 @@ Info: https://github.com/strangelove-ventures/ics-testnets/tree/main/game-of-cha
 RPC: https://goc-strange-rpc.lavenderfive.com/  
 gRPC: `https://goc-strange-grpc.lavenderfive.com`   
 API: `https://goc-strange-api.lavenderfive.com`  
-  
+
+Relayer:  
+`cosmos149nfuveshlx7g7g5z8rngc8dagl0jv2cjtew9v`    
 Seed Node:  
 `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:32656`    
 Address Book:   
