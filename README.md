@@ -51,7 +51,7 @@ Address Book: `https://raw.githubusercontent.com/LavenderFive/game-of-chains-202
   
 ## **Strange Consumer Chain**:  
 Public RPC: https://goc-strange-rpc.lavenderfive.com/  
-Public gRPC: https://goc-strange-gprc.lavenderfive.com/    
+Public gRPC: https://goc-strange-grpc.lavenderfive.com/    
 Public API: https://goc-strange-api.lavenderfive.com/  
   
 Seed Node: `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:32656`    
