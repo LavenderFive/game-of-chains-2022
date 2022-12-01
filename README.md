@@ -45,7 +45,7 @@ Seed Node: `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:
 Address Book: `https://raw.githubusercontent.com/LavenderFive/game-of-chains-2022/master/addrbook/goc-sputnik-addrbook.json`  
   
 ## **Strange Consumer Chain**:  
-Public RPC: https://goc-strange-rpc.lavenderfive.com/  
+RPC: https://goc-strange-rpc.lavenderfive.com/  
 gRPC: `https://goc-strange-grpc.lavenderfive.com`   
 API: `https://goc-strange-api.lavenderfive.com`  
   
