@@ -81,6 +81,18 @@ Seed node:
 Address Book:  
 `https://raw.githubusercontent.com/LavenderFive/game-of-chains-2022/master/addrbook/goc-s16-addrbook.json`  
   
+## **Schwifty Consumer Chain**:
+Info: https://github.com/sg-1validator/schwifty  
+RPC: https://goc-schwifty-rpc.lavenderfive.com/  
+gRPC: `https://goc-schwifty-grpc.lavenderfive.com`  
+API: `https://goc-schwifty-api.lavenderfive.com`  
+
+Seed Node:  
+`dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:36656`  
+  
+Address Book:  
+ **(waiting on chain launch)****(waiting on chain launch)**  
+  
 ## **Sputnik Consumer Chain**:  
 Info: https://github.com/hyphacoop/ics-testnets/tree/main/game-of-chains-2022/sputnik  
 RPC: https://goc-sputnik-rpc.lavenderfive.com/   
