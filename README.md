@@ -33,7 +33,7 @@ Address Book: `https://raw.githubusercontent.com/LavenderFive/game-of-chains-202
   
 ## **Neutron Consumer Chain**  
 Public RPC: https://goc-neutron-rpc.lavenderfive.com  
-Public gRPC: https://goc-neutron-grpc.lavenderfive.com  
+Public gRPC: https://goc-neutron-gprc.lavenderfive.com/  
 Public API: https://goc-neutron-api.lavenderfive.com  
   
 Seed Node: `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:30656`    
@@ -50,9 +50,9 @@ Seed Node: `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:
 Address Book: `https://raw.githubusercontent.com/LavenderFive/game-of-chains-2022/master/addrbook/goc-sputnik-addrbook.json`  
   
 ## **Strange Consumer Chain**:  
-Public RPC: https://goc-strange-rpc.lavenderfive.com  
-Public gRPC: https://goc-strange-grpc.lavenderfive.com  
-Public API: https://goc-strange-api.lavenderfive.com  
+Public RPC: https://goc-strange-rpc.lavenderfive.com/  
+Public gRPC: https://goc-strange-gprc.lavenderfive.com/    
+Public API: https://goc-strange-api.lavenderfive.com/  
   
 Seed Node: `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:32656`    
   
