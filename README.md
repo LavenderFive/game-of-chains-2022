@@ -4,6 +4,13 @@
   
 # Game of Chains 2022 Resources
   
+Main Repo:  
+https://github.com/hyphacoop/ics-testnets/tree/main/game-of-chains-2022  
+  
+Provider Tenderduty for L5:  
+https://goc-tenderduty.lavenderfive.com  
+  
+
 ## **Provider Chain**:  
 Info: https://github.com/hyphacoop/ics-testnets/tree/main/game-of-chains-2022/provider  
 RPC:  https://goc-provider-rpc.lavenderfive.com/  
