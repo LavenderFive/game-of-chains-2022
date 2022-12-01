@@ -110,7 +110,7 @@ gRPC: `https://goc-neutron-grpc.lavenderfive.com`
 API: `https://goc-neutron-api.lavenderfive.com`  
   
 Relayer:  
-`cosmos149nfuveshlx7g7g5z8rngc8dagl0jv2cjtew9v`    
+`neutron149nfuveshlx7g7g5z8rngc8dagl0jv2ck5svlt`    
 Seed Node:  
 `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:30656`    
 Address Book:   
