@@ -42,7 +42,7 @@ Address Book:  `https://raw.githubusercontent.com/LavenderFive/game-of-chains-20
   
 ## **Sputnik Consumer Chain**:  
 Public RPC: https://goc-sputnik-rpc.lavenderfive.com/   
-Public gRPC: https://goc-sputnik-gprc.lavenderfive.com/  
+Public gRPC: https://goc-sputnik-grpc.lavenderfive.com/  
 Public API: https://goc-sputnik-api.lavenderfive.com/ 
   
 Seed Node: `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:28656`    
