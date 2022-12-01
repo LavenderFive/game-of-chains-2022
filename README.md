@@ -180,14 +180,14 @@ Address Book:
   
 ----  
 
-## **Strange Consumer Chain**:  
+<del>## **Strange Consumer Chain**:  
 Chain ID: `strange-1`  
 Info: https://github.com/strangelove-ventures/ics-testnets/tree/main/game-of-chains-2022/strange/prop-9  
 RPC: https://goc-strange-rpc.lavenderfive.com/  
 gRPC: `https://goc-strange-grpc.lavenderfive.com`   
 API: `https://goc-strange-api.lavenderfive.com`  
 
-Relayer:  
+<del>Relayer:  
 `cosmos149nfuveshlx7g7g5z8rngc8dagl0jv2cjtew9v`    
 Seed Node:  
 `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:32656`    
