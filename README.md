@@ -33,7 +33,7 @@ Address Book: `https://raw.githubusercontent.com/LavenderFive/game-of-chains-202
   
 ## **Neutron Consumer Chain**  
 Public RPC: https://goc-neutron-rpc.lavenderfive.com  
-Public gRPC: https://goc-neutron-grpc.lavenderfive.com  
+Public gRPC: https://goc-neutron-gprc.lavenderfive.com/  
 Public API: https://goc-neutron-api.lavenderfive.com  
   
 Seed Node: `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:30656`    
