@@ -14,7 +14,7 @@ Address Book: `https://raw.githubusercontent.com/LavenderFive/game-of-chains-202
   
 ## **Duality Consumer Chain**  
 RPC: https://goc-duality-rpc.lavenderfive.com  
-gRPC: `https://goc-duality-grpc.lavenderfive.com`
+gRPC: `https://goc-duality-grpc.lavenderfive.com`  
 API: https://goc-duality-api.lavenderfive.com   
 
 Seed Node: `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:33656`    
