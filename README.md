@@ -12,6 +12,7 @@ https://goc-tenderduty.lavenderfive.com
   
 
 ## **Provider Chain**:  
+Chain ID: `provider`  
 Info: https://github.com/hyphacoop/ics-testnets/tree/main/game-of-chains-2022/provider  
 RPC:  https://goc-provider-rpc.lavenderfive.com/  
 gRPC: `https://goc-provider.gprc.lavenderfive.com`  
@@ -23,7 +24,8 @@ Address Book:
 `https://raw.githubusercontent.com/LavenderFive/game-of-chains-2022/master/addrbook/goc-provider-addrbook.json`  
   
 
-## **Crescent Consumer Chain**
+## **Crescent Consumer Chain**  
+Chain ID:  
 Info: https://github.com/b-harvest/game-of-chains/tree/main/crescent  
 RPC: https://goc-crescent-rpc.lavenderfive.com    
 gRPC: `https://goc-crescent-grpc.lavenderfive.com `   
@@ -35,6 +37,8 @@ Address Book:
 **(waiting on chain launch)**
   
 ## **Duality Consumer Chain**  
+Chain ID: `duality`  
+Info: https://github.com/duality-labs/duality-game-of-chains  
 RPC: https://goc-duality-rpc.lavenderfive.com  
 gRPC: `https://goc-duality-grpc.lavenderfive.com`  
 API: https://goc-duality-api.lavenderfive.com   
@@ -44,7 +48,8 @@ Seed Node:
 Address Book:  
 `https://raw.githubusercontent.com/LavenderFive/game-of-chains-2022/master/addrbook/goc-duality-addrbook.json`  
   
-## **Gopher Consumer Chain**
+## **Gopher Consumer Chain**  
+Chain ID: `gopher`  
 Info:  https://github.com/hyphacoop/ics-testnets/tree/main/game-of-chains-2022/gopher  
 RPC:  https://goc-gopher-rpc.lavenderfive.com   
 gRPC: `https://goc-gopher-grpc.lavenderfive.com`  
@@ -56,6 +61,7 @@ Address Book:
 `https://raw.githubusercontent.com/LavenderFive/game-of-chains-2022/master/addrbook/goc-gopher-addrbook.json`  
 
 ## **Hero Consumer Chain**  
+Chain ID: `hero-1`  
 Info: https://github.com/hyphacoop/ics-testnets/tree/main/game-of-chains-2022/hero  
 RPC: https://goc-hero-rpc.lavenderfive.com  
 gRPC: `https://goc-hero-grpc.lavenderfive.com`  
@@ -66,7 +72,8 @@ Seed Node:
 Address Book:  
 `https://raw.githubusercontent.com/LavenderFive/game-of-chains-2022/master/addrbook/goc-hero-addrbook.json`  
   
-## **Neutron Consumer Chain**  
+## **Neutron Consumer Chain**
+Chain ID: `neutron`    
 Info: https://github.com/hyphacoop/ics-testnets/tree/main/game-of-chains-2022/neutron  
 RPC: https://goc-neutron-rpc.lavenderfive.com  
 gRPC: `https://goc-neutron-grpc.lavenderfive.com`  
@@ -78,6 +85,7 @@ Address Book:
 `https://raw.githubusercontent.com/LavenderFive/game-of-chains-2022/master/addrbook/goc-neutron-addrbook.json`  
   
 ## **S16 Consumer Chain**:
+Chain ID: `s16-1`  
 Info: https://github.com/s16rv/ics-testnets/tree/main/game-of-chains-2022/s16  
 RPC: https://goc-s16-rpc.lavenderfive.com/  
 gRPC: `https://goc-s16-grpc.lavenderfive.com`  
@@ -88,7 +96,8 @@ Seed node:
 Address Book:  
 `https://raw.githubusercontent.com/LavenderFive/game-of-chains-2022/master/addrbook/goc-s16-addrbook.json`  
   
-## **Schwifty Consumer Chain**:
+## **Schwifty Consumer Chain**:  
+Chain ID: 
 Info: https://github.com/sg-1validator/schwifty  
 RPC: https://goc-schwifty-rpc.lavenderfive.com/  
 gRPC: `https://goc-schwifty-grpc.lavenderfive.com`  
@@ -101,6 +110,7 @@ Address Book:
  **(waiting on chain launch)** 
   
 ## **Sputnik Consumer Chain**:  
+Chain ID: `sputnik`  
 Info: https://github.com/hyphacoop/ics-testnets/tree/main/game-of-chains-2022/sputnik  
 RPC: https://goc-sputnik-rpc.lavenderfive.com/   
 gRPC: `https://goc-sputnik-grpc.lavenderfive.com`  
@@ -112,6 +122,7 @@ Address Book:
 `https://raw.githubusercontent.com/LavenderFive/game-of-chains-2022/master/addrbook/goc-sputnik-addrbook.json`  
   
 ## **Strange Consumer Chain**:  
+Chain ID: `strange-1`  
 Info: https://github.com/strangelove-ventures/ics-testnets/tree/main/game-of-chains-2022/strange/prop-9  
 RPC: https://goc-strange-rpc.lavenderfive.com/  
 gRPC: `https://goc-strange-grpc.lavenderfive.com`   
