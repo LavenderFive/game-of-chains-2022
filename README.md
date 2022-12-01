@@ -58,6 +58,15 @@ API: `https://goc-neutron-api.lavenderfive.com`
 Seed Node: `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:30656`    
 Address Book:  `https://raw.githubusercontent.com/LavenderFive/game-of-chains-2022/master/addrbook/goc-neutron-addrbook.json`  
   
+## **S16 Consumer Chain**:
+Info: https://github.com/s16rv/ics-testnets/tree/main/game-of-chains-2022/s16  
+RPC: https://goc-s16-rpc.lavenderfive.com/  
+gRPC: `https://goc-s16-grpc.lavenderfive.com`  
+API: `https://goc-s16-api.lavenderfive.com` 
+
+Seed node: `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:34656`   
+Address Book: `https://raw.githubusercontent.com/LavenderFive/game-of-chains-2022/master/addrbook/goc-s16-addrbook.json`  
+  
 ## **Sputnik Consumer Chain**:  
 Info: https://github.com/hyphacoop/ics-testnets/tree/main/game-of-chains-2022/sputnik  
 RPC: https://goc-sputnik-rpc.lavenderfive.com/   
