@@ -6,8 +6,6 @@
   
 ## **Provider Chain**:  
 Public RPC:  https://goc-provider-rpc.lavenderfive.com/  
-Public gRPC: https://goc-provider-grpc.lavenderfive.com/  
-Public API:  https://goc-provider-api.lavenderfive.com/  
   
 Seed Node: `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:26656`    
   
@@ -15,7 +13,6 @@ Address Book: `https://raw.githubusercontent.com/LavenderFive/game-of-chains-202
   
 ## **Duality Consumer Chain**
 Public RPC: https://goc-duality-rpc.lavenderfive.com  
-Public gRPC: https://goc-duality-grpc.lavenderfive.com  
 Public API: https://goc-duality-api.lavenderfive.com   
   
 Seed Node: `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:33656`    
@@ -24,8 +21,6 @@ Address Book: `https://raw.githubusercontent.com/LavenderFive/game-of-chains-202
   
 ## **Hero Consumer Chain**  
 Public RPC: https://goc-hero-rpc.lavenderfive.com  
-Public gRPC: https://goc-hero-grpc.lavenderfive.com  
-Public API: https://goc-hero-api.lavenderfive.com  
   
 Seed Node: `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:29656`  
   
@@ -33,8 +28,6 @@ Address Book: `https://raw.githubusercontent.com/LavenderFive/game-of-chains-202
   
 ## **Neutron Consumer Chain**  
 Public RPC: https://goc-neutron-rpc.lavenderfive.com  
-Public gRPC: https://goc-neutron-grpc.lavenderfive.com/  
-Public API: https://goc-neutron-api.lavenderfive.com  
   
 Seed Node: `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:30656`    
   
@@ -42,8 +35,6 @@ Address Book:  `https://raw.githubusercontent.com/LavenderFive/game-of-chains-20
   
 ## **Sputnik Consumer Chain**:  
 Public RPC: https://goc-sputnik-rpc.lavenderfive.com/   
-Public gRPC: https://goc-sputnik-grpc.lavenderfive.com/  
-Public API: https://goc-sputnik-api.lavenderfive.com/ 
   
 Seed Node: `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:28656`    
   
@@ -51,8 +42,6 @@ Address Book: `https://raw.githubusercontent.com/LavenderFive/game-of-chains-202
   
 ## **Strange Consumer Chain**:  
 Public RPC: https://goc-strange-rpc.lavenderfive.com/  
-Public gRPC: https://goc-strange-grpc.lavenderfive.com/    
-Public API: https://goc-strange-api.lavenderfive.com/  
   
 Seed Node: `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:32656`    
   
