@@ -26,6 +26,19 @@ Address Book:
 `https://raw.githubusercontent.com/LavenderFive/game-of-chains-2022/master/addrbook/goc-provider-addrbook.json`  
   
 ----  
+ 
+<del>## **Apollo Chain** ##  
+Chain ID: `apollo`  
+Info: https://github.com/hyphacoop/ics-testnets/tree/main/game-of-chains-2022/apollo  
+RPC: https://goc-apollo-rpc.lavenderfive.com/  
+gRPC: `https://goc-apollo-grpc.lavenderfive.com`  
+API: `https://api-apollo-grpc.lavenderfive.com`  
+
+  
+Seed Node:  
+`dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:27656`</de>    
+
+----  
 
 ## **Crescent Consumer Chain**  
 Chain ID:  
