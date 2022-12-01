@@ -35,8 +35,8 @@ gRPC: `https://goc-apollo-grpc.lavenderfive.com`
 API: `https://api-apollo-grpc.lavenderfive.com`  
 
   
-Seed Node:  
-`dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:27656`</de>    
+<del>Seed Node:  
+`dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:27656`      
 
 ----  
 
