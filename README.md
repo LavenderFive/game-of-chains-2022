@@ -110,6 +110,7 @@ Address Book:
  **(waiting on chain launch)** 
   
 ## **Sputnik Consumer Chain**:  
+Chain ID: `sputnik`  
 Info: https://github.com/hyphacoop/ics-testnets/tree/main/game-of-chains-2022/sputnik  
 RPC: https://goc-sputnik-rpc.lavenderfive.com/   
 gRPC: `https://goc-sputnik-grpc.lavenderfive.com`  
@@ -121,6 +122,7 @@ Address Book:
 `https://raw.githubusercontent.com/LavenderFive/game-of-chains-2022/master/addrbook/goc-sputnik-addrbook.json`  
   
 ## **Strange Consumer Chain**:  
+Chain ID: `strange-1`  
 Info: https://github.com/strangelove-ventures/ics-testnets/tree/main/game-of-chains-2022/strange/prop-9  
 RPC: https://goc-strange-rpc.lavenderfive.com/  
 gRPC: `https://goc-strange-grpc.lavenderfive.com`   
