@@ -15,12 +15,12 @@ Address Book: `https://raw.githubusercontent.com/LavenderFive/game-of-chains-202
   
 
 ## **Crescent Consumer Chain**
-Info: https://github.com/b-harvest/game-of-chains/tree/main/crescent
-RPC: https://goc-crescent-rpc.lavenderfive.com  
-gRPC: `https://goc-crescent-grpc.lavenderfive.com ` 
+Info: https://github.com/b-harvest/game-of-chains/tree/main/crescent  
+RPC: https://goc-crescent-rpc.lavenderfive.com    
+gRPC: `https://goc-crescent-grpc.lavenderfive.com `   
 API: `htts://goc-crescent-api.lavenderfive.com`
   
-Seed Node: `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:35656` 
+Seed Node: `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:35656`   
 Address Book:  (waiting on chain launch)
   
 ## **Duality Consumer Chain**  
