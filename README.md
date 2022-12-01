@@ -25,6 +25,7 @@ Seed Node:
 Address Book:  
 `https://raw.githubusercontent.com/LavenderFive/game-of-chains-2022/master/addrbook/goc-provider-addrbook.json`  
   
+----  
 
 ## **Crescent Consumer Chain**  
 Chain ID:  
@@ -38,6 +39,8 @@ Seed Node:
 Address Book:   
 **(waiting on chain launch)**
   
+----  
+
 ## **Duality Consumer Chain**  
 Chain ID: `duality`  
 Info: https://github.com/duality-labs/duality-game-of-chains  
@@ -50,6 +53,8 @@ Seed Node:
 Address Book:  
 `https://raw.githubusercontent.com/LavenderFive/game-of-chains-2022/master/addrbook/goc-duality-addrbook.json`  
   
+----  
+
 ## **Gopher Consumer Chain**  
 Chain ID: `gopher`  
 Info:  https://github.com/hyphacoop/ics-testnets/tree/main/game-of-chains-2022/gopher  
@@ -63,6 +68,8 @@ Seed Node:
 `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:31656`  
 Address Book:  
 `https://raw.githubusercontent.com/LavenderFive/game-of-chains-2022/master/addrbook/goc-gopher-addrbook.json`  
+
+----  
 
 ## **Hero Consumer Chain**  
 Chain ID: `hero-1`  
@@ -78,6 +85,8 @@ Seed Node:
 Address Book:  
 `https://raw.githubusercontent.com/LavenderFive/game-of-chains-2022/master/addrbook/goc-hero-addrbook.json`  
   
+---- 
+
 ## **Neutron Consumer Chain**
 Chain ID: `neutron`    
 Info: https://github.com/hyphacoop/ics-testnets/tree/main/game-of-chains-2022/neutron  
@@ -90,6 +99,8 @@ Seed Node:
 Address Book:   
 `https://raw.githubusercontent.com/LavenderFive/game-of-chains-2022/master/addrbook/goc-neutron-addrbook.json`  
   
+----  
+
 ## **S16 Consumer Chain**:
 Chain ID: `s16-1`  
 Info: https://github.com/s16rv/ics-testnets/tree/main/game-of-chains-2022/s16  
@@ -102,6 +113,8 @@ Seed node:
 Address Book:  
 `https://raw.githubusercontent.com/LavenderFive/game-of-chains-2022/master/addrbook/goc-s16-addrbook.json`  
   
+----  
+
 ## **Schwifty Consumer Chain**:  
 Chain ID: 
 Info: https://github.com/sg-1validator/schwifty  
@@ -114,6 +127,8 @@ Seed Node:
 Address Book:  
  **(waiting on chain launch)** 
   
+----  
+
 ## **Sputnik Consumer Chain**:  
 Chain ID: `sputnik`  
 Info: https://github.com/hyphacoop/ics-testnets/tree/main/game-of-chains-2022/sputnik  
@@ -128,6 +143,8 @@ Seed Node:
 Address Book:  
 `https://raw.githubusercontent.com/LavenderFive/game-of-chains-2022/master/addrbook/goc-sputnik-addrbook.json`  
   
+----  
+
 ## **Strange Consumer Chain**:  
 Chain ID: `strange-1`  
 Info: https://github.com/strangelove-ventures/ics-testnets/tree/main/game-of-chains-2022/strange/prop-9  
