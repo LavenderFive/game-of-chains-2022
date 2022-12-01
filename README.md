@@ -48,6 +48,8 @@ RPC: https://goc-duality-rpc.lavenderfive.com
 gRPC: `https://goc-duality-grpc.lavenderfive.com`  
 API: https://goc-duality-api.lavenderfive.com   
 
+Relayer:  
+`cosmos149nfuveshlx7g7g5z8rngc8dagl0jv2cjtew9v`    
 Seed Node:  
 `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:33656`    
 Address Book:  
@@ -94,6 +96,8 @@ RPC: https://goc-neutron-rpc.lavenderfive.com
 gRPC: `https://goc-neutron-grpc.lavenderfive.com`  
 API: `https://goc-neutron-api.lavenderfive.com`  
   
+Relayer:  
+`cosmos149nfuveshlx7g7g5z8rngc8dagl0jv2cjtew9v`    
 Seed Node:  
 `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:30656`    
 Address Book:   
@@ -108,6 +112,8 @@ RPC: https://goc-s16-rpc.lavenderfive.com/
 gRPC: `https://goc-s16-grpc.lavenderfive.com`  
 API: `https://goc-s16-api.lavenderfive.com` 
 
+Relayer:  
+`cosmos149nfuveshlx7g7g5z8rngc8dagl0jv2cjtew9v`    
 Seed node:  
 `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:34656`   
 Address Book:  
