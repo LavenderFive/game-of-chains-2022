@@ -91,7 +91,7 @@ Seed Node:
 `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:36656`  
   
 Address Book:  
- **(waiting on chain launch)****(waiting on chain launch)**  
+ **(waiting on chain launch)** 
   
 ## **Sputnik Consumer Chain**:  
 Info: https://github.com/hyphacoop/ics-testnets/tree/main/game-of-chains-2022/sputnik  
