@@ -102,14 +102,14 @@ Address Book:
   
 ---- 
 
-## **LOVE Consumer Chain**
+<del>## **LOVE Consumer Chain**
 Chain ID:  
 Info: https://github.com/dsrvlabs/ics-testnets/tree/main/game-of-chains-2022/love  
 RPC: https://goc-love-rpc.lavenderfive.com  
 gRPC: `https://goc-love-grpc.lavenderfive.com`  
 API:  `https://goc-love-grpc.lavenderfive.com`  
   
-Relayer:  
+<del>Relayer:  
 `cosmos149nfuveshlx7g7g5z8rngc8dagl0jv2cjtew9v`  
 Seed Node:  
 `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:37656`  
@@ -134,14 +134,14 @@ Address Book:
   
 ----  
 
-## **S16 Consumer Chain**:
+<del>## **S16 Consumer Chain**:
 Chain ID: `s16-1`  
 Info: https://github.com/s16rv/ics-testnets/tree/main/game-of-chains-2022/s16  
 RPC: https://goc-s16-rpc.lavenderfive.com/  
 gRPC: `https://goc-s16-grpc.lavenderfive.com`  
 API: `https://goc-s16-api.lavenderfive.com` 
 
-Relayer:  
+<del>Relayer:  
 `cosmos149nfuveshlx7g7g5z8rngc8dagl0jv2cjtew9v`    
 Seed node:  
 `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:34656`   
@@ -164,14 +164,14 @@ Address Book:
   
 ----  
 
-## **Sputnik Consumer Chain**:  
+<del>## **Sputnik Consumer Chain**:  
 Chain ID: `sputnik`  
 Info: https://github.com/hyphacoop/ics-testnets/tree/main/game-of-chains-2022/sputnik  
 RPC: https://goc-sputnik-rpc.lavenderfive.com/   
 gRPC: `https://goc-sputnik-grpc.lavenderfive.com`  
 API: `https://goc-sputnik-api.lavenderfive.com`  
 
-Relayer:  
+<del>Relayer:  
 `cosmos149nfuveshlx7g7g5z8rngc8dagl0jv2cjtew9v`  
 Seed Node:  
 `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:28656`    
