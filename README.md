@@ -160,7 +160,7 @@ API: `https://goc-schwifty-api.lavenderfive.com`
 Seed Node:  
 `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:36656`  
 Address Book:  
- **(waiting on chain launch)** 
+`https://raw.githubusercontent.com/LavenderFive/game-of-chains-2022/master/addrbook/goc-schwifty-addrbook.json`  
   
 ----  
 
