@@ -40,14 +40,14 @@ API: `https://api-apollo-grpc.lavenderfive.com`
 
 ----  
 
-## **Crescent Consumer Chain**  
+<del>## **Crescent Consumer Chain**  
 Chain ID: `goc-crescent`  
 Info: https://github.com/b-harvest/game-of-chains/tree/main/crescent  
 RPC: https://goc-crescent-rpc.lavenderfive.com    
 gRPC: `https://goc-crescent-grpc.lavenderfive.com `   
 API: `htts://goc-crescent-api.lavenderfive.com`
   
-Seed Node:  
+<del>Seed Node:  
 `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:35656`   
 Address Book:   
 `https://raw.githubusercontent.com/LavenderFive/game-of-chains-2022/master/addrbook/goc-crescent-addrbook.json` 
@@ -94,7 +94,7 @@ gRPC: `https://goc-hero-grpc.lavenderfive.com`
 API: `https://goc-hero-api.lavenderfive.com`  
 
 Relayer:  
-`cosmos149nfuveshlx7g7g5z8rngc8dagl0jv2cjtew9v`    
+<del>`cosmos149nfuveshlx7g7g5z8rngc8dagl0jv2cjtew9v`</del>  
 Seed Node:  
 `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:29656`  
 Address Book:  
@@ -131,6 +131,22 @@ Seed Node:
 `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:30656`    
 Address Book:   
 `https://raw.githubusercontent.com/LavenderFive/game-of-chains-2022/master/addrbook/goc-neutron-addrbook.json`  
+  
+----
+
+## **Rand Consumer Chain**  
+Chain ID: `rand-1`  
+Info:  
+RPC:  
+gRPC:  
+API:  
+
+Relayer:  
+`cosmos149nfuveshlx7g7g5z8rngc8dagl0jv2cjtew9v`  
+Seed Node:  
+  
+Address Book:  
+`https://raw.githubusercontent.com/LavenderFive/game-of-chains-2022/master/addrbook/goc-rand-addrbook.json`  
   
 ----  
 
