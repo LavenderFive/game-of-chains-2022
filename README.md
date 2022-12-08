@@ -68,6 +68,23 @@ Seed Node:
 Address Book:  
 `https://raw.githubusercontent.com/LavenderFive/game-of-chains-2022/master/addrbook/goc-duality-addrbook.json`  
   
+----
+
+## **Flash Consumer Chain**
+Chain ID: `flash`  
+Info: https://github.com/clemensgg/ics-testnets/tree/main/game-of-chains-2022/flash  
+RPC: https://goc-flash-rpc.lavenderfive.com/  
+API: `https://goc-flash-api.lavenderfive.com`  
+gRPC: `https://goc-flash-gprc.lavenderfive.com`  
+
+Relayer:  
+
+Seed Node:  
+`dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:40656`  
+Address Book:  
+``https://raw.githubusercontent.com/LavenderFive/game-of-chains-2022/master/addrbook/goc-flash-addrbook.json`  
+
+
 ----  
 
 ## **Gopher Consumer Chain**  
