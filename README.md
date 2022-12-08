@@ -190,12 +190,30 @@ RPC: https://goc-schwifty-rpc.lavenderfive.com/
 gRPC: `https://goc-schwifty-grpc.lavenderfive.com`  
 API: `https://goc-schwifty-api.lavenderfive.com`  
 
+Relayer:  
+`cosmos149nfuveshlx7g7g5z8rngc8dagl0jv2cjtew9v` 
 Seed Node:  
 `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:36656`  
 Address Book:  
 `https://raw.githubusercontent.com/LavenderFive/game-of-chains-2022/master/addrbook/goc-schwifty-addrbook.json`  
   
 ----  
+
+## **:knife:Slasher Chain:knife::   
+Chain ID: `slasher`  
+Info: https://github.com/hyphacoop/ics-testnets/tree/main/game-of-chains-2022/slasher  
+RPC: https://goc-slasher-rpc.lavenderfive.com/  
+gRPC: `https://goc-slasher-grpc.lavenderfive.com`  
+API: `https://goc-slasher-api.lavenderfive.com`  
+  
+Relayer:  
+`cosmos149nfuveshlx7g7g5z8rngc8dagl0jv2cjtew9v` 
+Seed Node:  
+`dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:41656`  
+Address Book:  
+`https://raw.githubusercontent.com/LavenderFive/game-of-chains-2022/master/addrbook/goc-slasher-addrbook.json`  
+  
+----
 
 <del>## **Sputnik Consumer Chain**:  
 Chain ID: `sputnik`  
