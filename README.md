@@ -78,7 +78,7 @@ API: `https://goc-flash-api.lavenderfive.com`
 gRPC: `https://goc-flash-gprc.lavenderfive.com`  
 
 Relayer:  
-
+`cosmos149nfuveshlx7g7g5z8rngc8dagl0jv2cjtew9v`    
 Seed Node:  
 `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:40656`  
 Address Book:  
@@ -151,14 +151,14 @@ Address Book:
   
 ----
 
-## **Rand Consumer Chain**  
+<del>## **Rand Consumer Chain**  
 Chain ID: `rand-1`  
 Info: https://github.com/dsrvlabs/ics-testnets/tree/main/game-of-chains-2022/rand  
 RPC: https://goc-rand-rpc.lavenderfive.com  
 gRPC: `https://goc-rand.gprc.lavenderfive.com`  
 API: `https://goc-rand-api.lavenderfive.com`  
 
-Relayer:  
+<del>Relayer:  
 `cosmos149nfuveshlx7g7g5z8rngc8dagl0jv2cjtew9v`  
 Seed Node:  
 `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:39656`
