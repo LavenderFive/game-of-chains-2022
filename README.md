@@ -199,7 +199,7 @@ Address Book:
   
 ----  
 
-## **:knife:Slasher Chain:knife::   
+## :knife:Slasher Chain:knife::   
 Chain ID: `slasher`  
 Info: https://github.com/hyphacoop/ics-testnets/tree/main/game-of-chains-2022/slasher  
 RPC: https://goc-slasher-rpc.lavenderfive.com/  
