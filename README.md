@@ -82,7 +82,7 @@ Relayer:
 Seed Node:  
 `dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:40656`  
 Address Book:  
-``https://raw.githubusercontent.com/LavenderFive/game-of-chains-2022/master/addrbook/goc-flash-addrbook.json`  
+`https://raw.githubusercontent.com/LavenderFive/game-of-chains-2022/master/addrbook/goc-flash-addrbook.json`  
 
 
 ----  
